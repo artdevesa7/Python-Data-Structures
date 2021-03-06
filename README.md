@@ -1,2 +1,2 @@
 # Python-Stack
-Implementation of a Python Stack data structure
+Implementation of Data Structures & Algorithms in Python
